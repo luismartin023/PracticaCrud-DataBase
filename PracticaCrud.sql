@@ -1,6 +1,6 @@
 create database PracticaCrud;
 
-use practicacrud
+use PracticaCrud
 
 create table Login
 (
@@ -142,6 +142,7 @@ values ('Sonic','Un zorro azul veloz','PE-10','Infantil',CONVERT(date, '2025-12-
 
 SELECT * FROM Pelicula
 
+select * from Usuario
 
 ss
 
