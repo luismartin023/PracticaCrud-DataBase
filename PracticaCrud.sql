@@ -143,7 +143,7 @@ values ('Sonic','Un zorro azul veloz','PE-10','Infantil',CONVERT(date, '2025-12-
 SELECT * FROM Pelicula
 
 
-
+ss
 
 
 
